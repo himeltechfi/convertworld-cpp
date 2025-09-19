@@ -47,16 +47,6 @@ Originally created in **2019** during my first year of university, it has been *
   - Use **switch statements** for cleaner control flow.  
   - Follow better programming practices.  
 
-
-## 📂 Repository Structure
-
-```bash
-.
-├── main.cpp        # Source code of the converter
-├── README.md       # Project documentation
-└── CHANGELOG.md    # Version history and updates in markdown
-```
-
 ## 🎯 Learning Outcome
 
 Working on ConvertWorld helped me:
