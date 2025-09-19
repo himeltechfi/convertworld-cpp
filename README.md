@@ -1,7 +1,7 @@
 # 🌍 ConvertWorld
 
 **ConvertWorld** is a simple **C++ command-line application** for converting various units of measurement.  
-Originally created in **2019** during my first year of university, it has been **refactored** to demonstrate my growth as a developer.
+Originally created in **2019**, it has been **refactored** in 2025.
 
 ---
 
